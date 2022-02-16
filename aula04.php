@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Primeiro exemplo PHP</title>
-        <<link rel="stylesheet" href="_css/stilo.css"/>
+        <link rel="stylesheet" href="_css/estilo.css"/>
     </head>
     <body>
     <div>
