@@ -23,10 +23,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <h1>Testando PHP</h1>
         <?php
         $idade = 3;
-        if ($idade > 0);
-            echo "<h3>tudo certo com a idade</h3>";
-        
-        echo "<h2>Olá,<br/> Mundo!</h2>";
+        if ($idade > 0) {
+    echo "<h3>tudo certo com a idade</h3>";
+}
+
+echo "<h2>Olá,<br/> Mundo!</h2>";
         ?>
     </body>
 </html>
