@@ -8,9 +8,9 @@
     <body>
     <div>
         <?php
-        $n = 4;
-        $no = "Jonas";
-        echo $no;      
+        $idade = 4;
+        $nome = "Jonas";
+        echo $nome." tem ".$idade." anos ";      
         ?>
     <div/>    
     </body>
