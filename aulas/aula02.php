@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Primeiro exemplo PHP</title>
+        <title>Aula 02</title>
         <style>
             h2 {
                 color:#80a2ff;
