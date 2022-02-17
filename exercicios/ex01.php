@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>Exercicio_01</title>
+        <title>Exercício_01</title>
         <link rel="stylesheet" href="../_css/estilo_ex.css"/>
     </head>
     <body>
