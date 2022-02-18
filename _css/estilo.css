@@ -5,6 +5,10 @@ body {
     background: url("wallpaper-php.jpg") no-repeat top center fixed;
     background-size: cover;
 }
+h3 {background-color: #ffffff; 
+    color: #ff0000;
+    
+}
 
 div::before {
     content: " Curso de PHP para Iniciantes - by Gustavo Guanabara ";
