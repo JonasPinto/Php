@@ -18,9 +18,9 @@
         $ajp = $_GET["ajp"];
         
         /* $vlv == valor de venda*/
-        $vlv = ($prc * $ajp / 100) + $prc;
+        $vlv = number_format(($prc * $ajp / 100) + $prc,2);
         
-        echo "<h2> $$prc com $ajp % de acrecimo é = " .number_format($vlv,2). "<h2/>";
+        echo "<h2> ${$prc} com {$ajp} % de acrecimo é = {$vlv}<h2/>";
         ?>
     </body>
 </html>
