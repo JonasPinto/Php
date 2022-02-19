@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="../_css/estilo_ex.css">
     </head>
      <body>
-        <?php /* http://localhost/PHP/PHP/exercicios/ex05.php?temp_c=20
+        <?php /* http://localhost/PHP/exercicios/ex05.php?temp_c=20
             Exercício - 5 Ler uma temperatura em graus Celsius e apresentala
             convertida em graus Fahrenheit. A fórmula de conversão é:
             F=(9*C+160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.*/
