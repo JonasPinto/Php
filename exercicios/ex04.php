@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        /*Exercício - 4 http://localhost/PHP/PHP/exercicios/ex04.php?prc=22.50&ajp=12.5 
+        /*Exercício - 4 http://localhost/PHP/exercicios/ex04.php?prc=22.50&ajp=12.5 
         Faça um algoritmo que receba o preço de custo de um produto e mostre
         o valor de venda. Sabese o preço de custo receberá um
         acréscimo de acordo com um percentual informado pelo usuário.*/
