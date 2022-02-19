@@ -8,7 +8,7 @@
     </head>
     
     <body>
-        <?php /* http://localhost/PHP/PHP/exercicios/ex06.php?ct=100000
+        <?php /* http://localhost/PHP/exercicios/ex06.php?ct=100000
             Exercício - 6 O custo ao consumidor de um carro novo é a soma do custo de fábrica
             com a percentagem do distribuidor e dos impostos (aplicados,primeiro os impostos sobre
             o custo de fábrica, e depois a percentagem do distribuidor sobre o resultado). 
