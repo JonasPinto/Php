@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>Exercício_01</title>
         <link rel="stylesheet" href="../_css/estilo_ex.css"/>
     </head>
