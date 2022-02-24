@@ -17,7 +17,6 @@
         <div>
             <h2>
                 <?php
-                /* http://localhost/PHP/aulas/funcoes_aritimeticas.php?x=-5&y=8 */
                 $v1 = $_GET["x"];
                 $v2 = $_GET["y"];
                 echo " Valores recebidos: $v1 e $v2 ";
