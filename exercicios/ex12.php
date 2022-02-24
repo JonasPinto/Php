@@ -6,8 +6,8 @@
         <link rel="stylesheet" href="../_css/estilo_ex.css"/>
     </head>
     <body>
-        <?php /*http://localhost/PHP/exercicios/ex12.php?ht=241&salh=13.55
-            A jornada de trabalho semanal de um funcionário é de 40 horas. O funcionário 
+        <?php
+        /* A jornada de trabalho semanal de um funcionário é de 40 horas. O funcionário 
            que trabalhar mais de 40 horas receberá hora extra, cujo cálculo é o valor da 
            hora regular com um acréscimo de 50%.Escreva um algoritmo que leia o número de 
            horas trabalhadas em um mês, o salário por hora e escreva o salário total do 
