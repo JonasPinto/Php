@@ -7,7 +7,7 @@
     </head>
     <body>
         <div>
-        <?php /*http://localhost/PHP/aulas/aula05.php?a=5&b=8&c=12*/
+        <?php
             $a = $_GET["a"];
             $b = $_GET["b"];
             $c = $_GET["c"];
