@@ -8,7 +8,7 @@
     
     <body>
     <div>
-        <?php /*http://localhost/PHP/PHP/aulas/aula04.php?idade=34*/
+        <?php /*http://localhost/PHP/aulas/incremento.php?idade=34*/
         $idade = $_GET["idade"];
         $nome = "Jonas";
         echo " $nome tem $idade anos ";      
