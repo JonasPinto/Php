@@ -9,15 +9,15 @@
     
     <body>
     <div>
-        <?php /*http://localhost/PHP/aulas/incremento.php?idade=34*/
+        <?php /*http://localhost/PHP/aulas/incremento.php?a=2022*/
         /* ++$variável a variável é incrementada primeiro
            $variável++ 
            --$variável
            $variável-- */
         
-        $atual = $_GET["aa"];
+        $atual = $_GET["a"];
         
-        # incrementar ou decrementar antes ou depois da variavel resultam em valores diferentes
+        # incrementar/decrementar antes/depois da variavel resulta em valores diferentes
         echo "O ano atual é $atual e o ano anterior é ".--$atual
              ."<br/>O próximo ano depois de ".++$atual. " é ".++$atual;      
         ?>
