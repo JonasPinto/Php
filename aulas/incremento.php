@@ -9,8 +9,9 @@
     
     <body>
     <div>
-        <?php /*http://localhost/PHP/aulas/incremento.php?a=2022*/
-        /* ++$variável a variável é incrementada primeiro
+        <?php 
+        /*
+           ++$variável a variável é incrementada primeiro
            $variável++ 
            --$variável
            $variável-- */
