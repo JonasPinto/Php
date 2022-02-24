@@ -17,6 +17,7 @@
         
         $atual = $_GET["aa"];
         
+        # incrementar ou decrementar antes ou depois da variavel resultam em valores diferentes
         echo "O ano atual é $atual e o ano anterior é ".--$atual
              ."<br/>O próximo ano depois de ".++$atual. " é ".++$atual;      
         ?>
