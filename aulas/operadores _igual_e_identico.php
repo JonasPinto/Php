@@ -15,7 +15,7 @@
                 # o valor das duas variaveis é 3 mas não são identicas pois em $b o tipo é string
                 echo "Os valores passados foram $a e $b<br/>";
                 
-                $r = $a == $b ? "sim" : "não"; #   
+                $r = $a == $b ? "sim" : "não";    
                 echo "As duas variaveis são iguais? $r<br/>";
                 
                 $r = $a === $b ? "sim" : "não";
