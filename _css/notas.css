@@ -20,7 +20,6 @@ body {
 }
 .voltar{
     position: relative;
-    text-decoration: underline; 
     top: 10pt;
     font-size: 11pt;
     padding: 6pt;
@@ -36,7 +35,7 @@ label{
     font-weight: bold;
 
 }
-#sub{
+.sub{
     position: relative;
     font-size: 11pt;
     top: 4pt;
