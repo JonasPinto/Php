@@ -8,7 +8,7 @@
     <body>
         <div>
             <form method ="get" action ="01valor.php">
-                valor: <input type="number" name="v"/>
+                valor: <input type="number" name="v" required/>
                 <input type="submit" value="caucular raiz"/>
             </form>
         </div>
