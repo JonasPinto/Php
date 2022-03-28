@@ -12,7 +12,7 @@
                 $rq = sqrt($valor);
                 echo "O valor enviado foi $valor<br/>A sua raiz é = ".number_format($rq, 2);              
             ?>
-            <a href="formulario_valor.php"><botton>Voltar</botton></a>       
+            <a class="voltar" href="formulario_valor.php">Voltar</a>       
         </div>
     </body>
 </html>
