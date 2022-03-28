@@ -31,7 +31,7 @@
                }
                echo "A média entre <span>$n1</span> e <span>$n2</span> é igual a <span>$m</span><br/>Situação do aluno: <span>$sit</span><br>";   
             ?> 
-            <a href="media.php" class="voltar">Voltar<a/>
+            <a href="media.php" class="sub">Voltar<a/>
         </div>
     </body>
 </html>
