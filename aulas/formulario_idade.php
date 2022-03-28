@@ -16,7 +16,7 @@
                     <input type="radio" name="sexo" id="fem" value="Mulher"/>
                     <label for="fem">Feminino</label>
                 </fieldset><br/>
-                <input type="submit" value="Enviar"/>
+                <input type="submit"/>
             </form>
         </div>
     </body>
