@@ -12,7 +12,7 @@
                $n1 = $_GET["n1"]; 
                $n2 = $_GET["n2"];
                
-               if (($n1 === "" || $n1 <= 0) || ($n2 === "" || $n2 <= 0)){
+               if (($n1 == "" || $n1 <= 0) || ($n2 == "" || $n2 <= 0)){
                    echo "Nota inválida";
                    exit("<br><a href='media.php' class='voltar'>Voltar<a/>");
                }
