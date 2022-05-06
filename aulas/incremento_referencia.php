@@ -48,6 +48,6 @@
         de baixo vai criar uma variável $jonas, com o conteúdo “professor”.
         */
         ?>
-    <div/>    
+    </div>    
     </body>
 </html>
