@@ -20,6 +20,6 @@
         echo "O fatorial de $v! = $fat "
         ?>
         <br><a href="dowhile02.php" class="voltar">Voltar</a>
-    <div/>    
+    </div>    
     </body>
 </html>
